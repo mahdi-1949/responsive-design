@@ -1,0 +1,154 @@
+                @media screen and (max-width: 550px) {
+                    .small {
+                        width: 100%;
+                    }
+                    .text-area-small {
+                        top: 15%;
+                        margin: 0 auto;
+                        border-radius: 40px;
+                    }
+                    .middle-se-small {
+                        margin: 0 auto;
+                        display: block;
+                    }
+                    .col-samll-1 {
+                        width: 8.33%;
+                    }
+                    .col-samll-2 {
+                        width: 16.66%;
+                    }
+                    .col-samll-3 {
+                        width: 25%;
+                    }
+                    .col-samll-4 {
+                        width: 33.33%;
+                    }
+                    .col-samll-5 {
+                        width: 41.66%;
+                    }
+                    .col-samll-6 {
+                        width: 50%;
+                    }
+                    .col-samll-7 {
+                        width: 58.33%;
+                    }
+                    .col-samll-8 {
+                        width: 66.66%;
+                    }
+                    .col-samll-9 {
+                        width: 75%;
+                    }
+                    .col-samll-10 {
+                        width: 83.33%;
+                    }
+                    .col-samll-11 {
+                        width: 91.66%;
+                    }
+                    .col-samll-12 {
+                        width: 100%;
+                    }
+                }
+                
+                @media (min-width:550px) and (max-width:1024px) {
+                    .medium {
+                        width: 100%;
+                    }
+                    .text-area-medium {
+                        margin: 0 10%;
+                        top: 15%;
+                        border-radius: 50%;
+                    }
+                    .middle-se-medium {
+                        margin: 0 auto;
+                        display: block;
+                    }
+                    .col-medium-1 {
+                        width: 8.33%;
+                    }
+                    .col-medium-2 {
+                        width: 16.66%;
+                    }
+                    .col-medium-3 {
+                        width: 25%;
+                    }
+                    .col-medium-4 {
+                        width: 33.33%;
+                    }
+                    .col-medium-5 {
+                        width: 41.66%;
+                    }
+                    .col-medium-6 {
+                        width: 50%;
+                    }
+                    .col-medium-7 {
+                        width: 58.33%;
+                    }
+                    .col-medium-8 {
+                        width: 66.66%;
+                    }
+                    .col-medium-9 {
+                        width: 75%;
+                    }
+                    .col-medium-10 {
+                        width: 83.33%;
+                    }
+                    .col-medium-11 {
+                        width: 91.66%;
+                    }
+                    .col-medium-12 {
+                        width: 100%;
+                    }
+                }
+                
+                @media screen and (min-width:1024px) {
+                    .large {
+                        width: 90%;
+                    }
+                    .text-area-large {
+                        top: 15%;
+                        margin-left: 10%;
+                        border-radius: 50%;
+                    }
+                    .middle-se-large {
+                        display: inline-block;
+                    }
+                    .col-large-1 {
+                        width: 8.33%;
+                    }
+                    .col-large-2 {
+                        width: 16.66%;
+                    }
+                    .col-large-2-5 {
+                        width: 22%;
+                    }
+                    .col-large-3 {
+                        width: 25%;
+                    }
+                    .col-large-4 {
+                        width: 33.33%;
+                    }
+                    .col-large-5 {
+                        width: 41.66%;
+                    }
+                    .col-large-6 {
+                        width: 50%;
+                    }
+                    .col-large-7 {
+                        width: 58.33%;
+                    }
+                    .col-large-8 {
+                        width: 66.66%;
+                    }
+                    .col-large-9 {
+                        width: 75%;
+                    }
+                    .col-large-10 {
+                        width: 83.33%;
+                    }
+                    .col-large-11 {
+                        width: 91.66%;
+                    }
+                    .col-large-12 {
+                        width: 100%;
+                    }
+                }
